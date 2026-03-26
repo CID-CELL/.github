@@ -1,5 +1,7 @@
 <div align="center">
-<img width="1000" height="922" alt="CIDC-logo" src="https://github.com/user-attachments/assets/b0b4a4e5-6917-4e79-b516-3631144bf495" />
+<img alt="CIDC-logo" src="https://github.com/user-attachments/assets/b0b4a4e5-6917-4e79-b516-3631144bf495" width = "100%" />
+ 
+
  
   # 🚀 CID-Cell
   
