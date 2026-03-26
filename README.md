@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://via.placeholder.com/800x200/1e293b/61dafb?text=CID-Cell+|+Collaborative+Innovation+%26+Development+Cell" alt="CID-Cell Banner" width="100%" />
-
+<img width="1000" height="922" alt="CIDC-logo" src="https://github.com/user-attachments/assets/b0b4a4e5-6917-4e79-b516-3631144bf495" />
+ 
   # 🚀 CID-Cell
   
   **Department of Computer Science & Engineering, MITS Gwalior**  
