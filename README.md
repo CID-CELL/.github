@@ -1,5 +1,8 @@
 <div align="center">
-<img alt="CIDC-logo" src="https://github.com/user-attachments/assets/b0b4a4e5-6917-4e79-b516-3631144bf495" width = "100%" />
+ <img src="https://github.com/user-attachments/assets/b0b4a4e5-6917-4e79-b516-3631144bf495" 
+       alt="CIDC Logo" 
+       width="180" />
+
  
 
  
