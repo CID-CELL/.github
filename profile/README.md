@@ -13,8 +13,8 @@
 
   <br />
 
-  [![GitHub followers](https://img.shields.io/github/followers/cid-cell-mits?label=Follow&style=social)]((https://github.com/CID-CELL/)) 
-  [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)]((https://github.com/CID-CELL/))
+ [![GitHub followers](https://img.shields.io/github/followers/cid-cell-mits?label=Follow&style=social)](https://github.com/CID-CELL/)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/CID-CELL/)
   [![Made with React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=white)](https://react.dev/)
   [![Powered by Node.js](https://img.shields.io/badge/Node.js-Express-339933?logo=nodedotjs&logoColor=white)](https://nodejs.org/)
 
